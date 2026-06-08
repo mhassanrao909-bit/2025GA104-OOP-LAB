@@ -1,0 +1,7 @@
+C:\Users\Imran\OneDrive\Desktop\OOP lab 2\OOP lab2 t6\OOP lab2 t6\bin\Debug\OOP lab2 t6.exe.config
+C:\Users\Imran\OneDrive\Desktop\OOP lab 2\OOP lab2 t6\OOP lab2 t6\bin\Debug\OOP lab2 t6.exe
+C:\Users\Imran\OneDrive\Desktop\OOP lab 2\OOP lab2 t6\OOP lab2 t6\bin\Debug\OOP lab2 t6.pdb
+C:\Users\Imran\OneDrive\Desktop\OOP lab 2\OOP lab2 t6\OOP lab2 t6\obj\Debug\OOP lab2 t6.csproj.AssemblyReference.cache
+C:\Users\Imran\OneDrive\Desktop\OOP lab 2\OOP lab2 t6\OOP lab2 t6\obj\Debug\OOP lab2 t6.csproj.CoreCompileInputs.cache
+C:\Users\Imran\OneDrive\Desktop\OOP lab 2\OOP lab2 t6\OOP lab2 t6\obj\Debug\OOP lab2 t6.exe
+C:\Users\Imran\OneDrive\Desktop\OOP lab 2\OOP lab2 t6\OOP lab2 t6\obj\Debug\OOP lab2 t6.pdb
