@@ -1,0 +1,7 @@
+C:\Users\Imran\OneDrive\Desktop\OOP lab 3\OOP lab3 t2\OOP lab3 t2\bin\Debug\OOP lab3 t2.exe.config
+C:\Users\Imran\OneDrive\Desktop\OOP lab 3\OOP lab3 t2\OOP lab3 t2\bin\Debug\OOP lab3 t2.exe
+C:\Users\Imran\OneDrive\Desktop\OOP lab 3\OOP lab3 t2\OOP lab3 t2\bin\Debug\OOP lab3 t2.pdb
+C:\Users\Imran\OneDrive\Desktop\OOP lab 3\OOP lab3 t2\OOP lab3 t2\obj\Debug\OOP lab3 t2.csproj.AssemblyReference.cache
+C:\Users\Imran\OneDrive\Desktop\OOP lab 3\OOP lab3 t2\OOP lab3 t2\obj\Debug\OOP lab3 t2.csproj.CoreCompileInputs.cache
+C:\Users\Imran\OneDrive\Desktop\OOP lab 3\OOP lab3 t2\OOP lab3 t2\obj\Debug\OOP lab3 t2.exe
+C:\Users\Imran\OneDrive\Desktop\OOP lab 3\OOP lab3 t2\OOP lab3 t2\obj\Debug\OOP lab3 t2.pdb
